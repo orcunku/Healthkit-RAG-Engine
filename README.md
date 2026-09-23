@@ -71,7 +71,9 @@ Install Dependencies:
 
 Bash
 pip install -r requirements.txt
-Launch the Application:python -m streamlit run app.py
+
+Launch the Application:
+python -m streamlit run app.py
 
 
 Test Scenarios
