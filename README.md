@@ -73,6 +73,7 @@ Bash
 pip install -r requirements.txt
 Launch the Application:python -m streamlit run app.py
 
+
 Test Scenarios
 Scenario                                   Input Query                                                Expected Result
 Exact Metric & Context Match"             Late night work session high stress low HRV"                Matches 2026-09-02 with ~81% confidence,                                                                                           surfacing 5.2h sleep, 38ms HRV, and the                                                                                                   associated work stress journal entry.
@@ -83,11 +84,12 @@ Complex Correlation Query                  "How did my sleep quality correlate w
 
 Out-of-Scope Rejection                     "What is the stock price of Apple today"                     Fails Threshold Gate (<10% match                                                                                                          score.                                                                                                                                    Displays graceful fallback alert.
 
+
 Tech StackLanguage: Python 3.10+Framework: Streamlit (UI & State Management)Vector Math: NumPy, Pandas, Plotly ExpressData Schema: Synthetic HealthKit Time-Series Data (healthkit_data.json)Environment: GitHub Codespaces / VS Code
+
 
 📄 Legal Disclaimer:This repository is an independent research prototype created solely for educational and portfolio demonstration purposes. It is not affiliated with, endorsed by, sponsored by, or associated with Apple Inc. All product names, trademarks, and registered trademarks—including "Apple," "HealthKit," and "CoreML"—are the property of their respective owners.
 
+
 📜 LicenseDistributed under the MIT License. See LICENSE for more information.
 
-Bash
-python -m streamlit run app.py
