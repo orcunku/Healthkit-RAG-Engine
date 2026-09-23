@@ -1,0 +1,87 @@
+[
+  {
+    "date": "2026-09-01",
+    "metrics": {
+      "sleep_hours": 7.8,
+      "sleep_quality_score": 88,
+      "avg_resting_hr": 58,
+      "hrv_ms": 65,
+      "step_count": 10420,
+      "active_energy_kcal": 480
+    },
+    "workout": {
+      "type": "Outdoor Run",
+      "duration_min": 35,
+      "avg_hr": 148,
+      "distance_km": 5.2
+    },
+    "journal_note": "Felt energetic during the morning run. Good sleep recovery."
+  },
+  {
+    "date": "2026-09-02",
+    "metrics": {
+      "sleep_hours": 5.2,
+      "sleep_quality_score": 52,
+      "avg_resting_hr": 68,
+      "hrv_ms": 38,
+      "step_count": 4100,
+      "active_energy_kcal": 190
+    },
+    "workout": null,
+    "journal_note": "Late night work session. High stress, low HRV, and elevated resting heart rate."
+  },
+  {
+    "date": "2026-09-03",
+    "metrics": {
+      "sleep_hours": 8.5,
+      "sleep_quality_score": 92,
+      "avg_resting_hr": 55,
+      "hrv_ms": 72,
+      "step_count": 12300,
+      "active_energy_kcal": 610
+    },
+    "workout": {
+      "type": "HIIT Workout",
+      "duration_min": 45,
+      "avg_hr": 162,
+      "distance_km": 0.0
+    },
+    "journal_note": "Excellent deep sleep. High HRV recovery led to a great high-intensity workout session."
+  },
+  {
+    "date": "2026-09-04",
+    "metrics": {
+      "sleep_hours": 6.1,
+      "sleep_quality_score": 64,
+      "avg_resting_hr": 64,
+      "hrv_ms": 45,
+      "step_count": 7800,
+      "active_energy_kcal": 310
+    },
+    "workout": {
+      "type": "Yoga",
+      "duration_min": 30,
+      "avg_hr": 98,
+      "distance_km": 0.0
+    },
+    "journal_note": "Moderate fatigue. Sub-optimal sleep recovery, opted for light yoga stretching."
+  },
+  {
+    "date": "2026-09-05",
+    "metrics": {
+      "sleep_hours": 8.0,
+      "sleep_quality_score": 85,
+      "avg_resting_hr": 57,
+      "hrv_ms": 68,
+      "step_count": 11100,
+      "active_energy_kcal": 520
+    },
+    "workout": {
+      "type": "Outdoor Run",
+      "duration_min": 40,
+      "avg_hr": 152,
+      "distance_km": 6.0
+    },
+    "journal_note": "Strong endurance run. HRV bounced back to optimal baseline range."
+  }
+]
