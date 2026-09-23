@@ -2,7 +2,7 @@
 
 An edge-computed **Retrieval-Augmented Generation (RAG)** pipeline designed for natural language semantic search over private, time-series biometric streams and user health logs—engineered around zero-cloud data exfiltration and sub-10ms retrieval latency.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-healthkit-app-link.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://healthkit-rag-engine-9bdz8a8m8evyoe9hhqmxqy.streamlit.app/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
